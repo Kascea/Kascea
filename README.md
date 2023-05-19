@@ -4,7 +4,7 @@ I am Cole Carlson, a Software Engineer for Collin's Aerospace with a Bachelors d
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/coletcarlson/)
-- [Email](colethomascarlson@gmail.com)
+- colethomascarlson@gmail.com
 
 ### Reflection
 
