@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Cole Carlson, a Software Engineer for Collin's Aerospace with a Bachelors degree in Computer Science and Minor in Electrical Engineering from the University of St. Thomas.  I am experienced in Full-Stack, Windows application development, C#, Java, Javascript/Typescript, as well as a multitude of different frameworks and libraries.
+I am Cole Carlson, a Software Engineer for Collin's Aerospace with a Bachelors degree in Computer Science and Minor in Electrical Engineering from the University of St. Thomas.  I am experienced in Full-Stack Web and Windows application development, C#, Java, Javascript/Typescript, as well as a multitude of different frameworks and libraries.
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/coletcarlson/)
