@@ -5,7 +5,7 @@ I am Cole Carlson, a Software Engineer for Collin's Aerospace with a Bachelors d
 - [LinkedIn](https://www.linkedin.com/in/coletcarlson/)
 - colethomascarlson@gmail.com
 
-#### CustomTickets:
+#### Stubly:
 A web application built with Laravel, Inertia.js, and React that enables users to create and customize downloadable memorabilia tickets.
 <hr>
 
